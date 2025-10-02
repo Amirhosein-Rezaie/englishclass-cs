@@ -1,0 +1,42 @@
+D:\A\Programming\Csharp\School\Programmes\P5_\FinalProject\EnglishClass\EnglishClass\bin\Debug\EnglishClass.exe.config
+D:\A\Programming\Csharp\School\Programmes\P5_\FinalProject\EnglishClass\EnglishClass\bin\Debug\EnglishClass.exe
+D:\A\Programming\Csharp\School\Programmes\P5_\FinalProject\EnglishClass\EnglishClass\bin\Debug\EnglishClass.pdb
+D:\A\Programming\Csharp\School\Programmes\P5_\FinalProject\EnglishClass\EnglishClass\obj\Debug\EnglishClass.Properties.Resources.resources
+D:\A\Programming\Csharp\School\Programmes\P5_\FinalProject\EnglishClass\EnglishClass\obj\Debug\EnglishClass.csproj.GenerateResource.cache
+D:\A\Programming\Csharp\School\Programmes\P5_\FinalProject\EnglishClass\EnglishClass\obj\Debug\EnglishClass.csproj.CoreCompileInputs.cache
+D:\A\Programming\Csharp\School\Programmes\P5_\FinalProject\EnglishClass\EnglishClass\obj\Debug\EnglishClass.exe
+D:\A\Programming\Csharp\School\Programmes\P5_\FinalProject\EnglishClass\EnglishClass\obj\Debug\EnglishClass.pdb
+D:\A\Programming\Csharp\School\Programmes\P5_\FinalProject\EnglishClass\EnglishClass\obj\Debug\EnglishClass.login.resources
+D:\A\Programming\Csharp\School\Programmes\P5_\FinalProject\EnglishClass\EnglishClass\obj\Debug\EnglishClass.stds.resources
+D:\A\Programming\Csharp\School\Programmes\P5_\FinalProject\EnglishClass\EnglishClass\obj\Debug\EnglishClass.terms.resources
+D:\A\Programming\Csharp\School\Programmes\P5_\FinalProject\EnglishClass\EnglishClass\obj\Debug\EnglishClass.teachs.resources
+D:\A\Programming\Csharp\School\Programmes\P5_\FinalProject\EnglishClass\EnglishClass\obj\Debug\EnglishClass.books.resources
+D:\A\Programming\Csharp\School\Programmes\P5_\FinalProject\EnglishClass\EnglishClass\obj\Debug\EnglishClass.AdminForm.resources
+D:\A\Programming\Csharp\School\Programmes\P5_\FinalProject\EnglishClass\EnglishClass\obj\Debug\EnglishClass.StudentForm.resources
+D:\A\Programming\Csharp\School\Programmes\P5_\FinalProject\EnglishClass\EnglishClass\obj\Debug\EnglishClass.csproj.CopyComplete
+D:\A\Programming\Csharp\School\Programmes\P5_\FinalProject\EnglishClass\EnglishClass\bin\Debug\EnglishClass.mdb
+D:\A\Programming\Csharp\School\Programmes\P5_\FinalProject\EnglishClass\EnglishClass\obj\Debug\EnglishClass.csprojAssemblyReference.cache
+D:\A\Programming\Csharp\School\Programmes\P5_\FinalProject\EnglishClass\EnglishClass\obj\Debug\EnglishClass.Teachers.resources
+D:\A\Programming\Csharp\School\Programmes\P5_\FinalProject\EnglishClass\EnglishClass\obj\Debug\EnglishClass.LevelRooms.resources
+D:\A\Programming\Csharp\School\Programmes\P5_\FinalProject\EnglishClass\EnglishClass\obj\Debug\EnglishClass.admins.resources
+D:\A\Programming\Csharp\Projects\Windows Form\EnglishClass\EnglishClass\bin\Debug\EnglishClass.mdb
+D:\A\Programming\Csharp\Projects\Windows Form\EnglishClass\EnglishClass\bin\Debug\EnglishClass.exe.config
+D:\A\Programming\Csharp\Projects\Windows Form\EnglishClass\EnglishClass\bin\Debug\EnglishClass.exe
+D:\A\Programming\Csharp\Projects\Windows Form\EnglishClass\EnglishClass\bin\Debug\EnglishClass.pdb
+D:\A\Programming\Csharp\Projects\Windows Form\EnglishClass\EnglishClass\obj\Debug\EnglishClass.csprojAssemblyReference.cache
+D:\A\Programming\Csharp\Projects\Windows Form\EnglishClass\EnglishClass\obj\Debug\EnglishClass.admins.resources
+D:\A\Programming\Csharp\Projects\Windows Form\EnglishClass\EnglishClass\obj\Debug\EnglishClass.books.resources
+D:\A\Programming\Csharp\Projects\Windows Form\EnglishClass\EnglishClass\obj\Debug\EnglishClass.AdminForm.resources
+D:\A\Programming\Csharp\Projects\Windows Form\EnglishClass\EnglishClass\obj\Debug\EnglishClass.login.resources
+D:\A\Programming\Csharp\Projects\Windows Form\EnglishClass\EnglishClass\obj\Debug\EnglishClass.Properties.Resources.resources
+D:\A\Programming\Csharp\Projects\Windows Form\EnglishClass\EnglishClass\obj\Debug\EnglishClass.LevelRooms.resources
+D:\A\Programming\Csharp\Projects\Windows Form\EnglishClass\EnglishClass\obj\Debug\EnglishClass.stds.resources
+D:\A\Programming\Csharp\Projects\Windows Form\EnglishClass\EnglishClass\obj\Debug\EnglishClass.StudentForm.resources
+D:\A\Programming\Csharp\Projects\Windows Form\EnglishClass\EnglishClass\obj\Debug\EnglishClass.Teachers.resources
+D:\A\Programming\Csharp\Projects\Windows Form\EnglishClass\EnglishClass\obj\Debug\EnglishClass.teachs.resources
+D:\A\Programming\Csharp\Projects\Windows Form\EnglishClass\EnglishClass\obj\Debug\EnglishClass.terms.resources
+D:\A\Programming\Csharp\Projects\Windows Form\EnglishClass\EnglishClass\obj\Debug\EnglishClass.csproj.GenerateResource.cache
+D:\A\Programming\Csharp\Projects\Windows Form\EnglishClass\EnglishClass\obj\Debug\EnglishClass.csproj.CoreCompileInputs.cache
+D:\A\Programming\Csharp\Projects\Windows Form\EnglishClass\EnglishClass\obj\Debug\EnglishClass.csproj.CopyComplete
+D:\A\Programming\Csharp\Projects\Windows Form\EnglishClass\EnglishClass\obj\Debug\EnglishClass.exe
+D:\A\Programming\Csharp\Projects\Windows Form\EnglishClass\EnglishClass\obj\Debug\EnglishClass.pdb
